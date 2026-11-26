@@ -68,6 +68,14 @@ Investigators are advised to proceed as though approval has been granted, while 
 
 ---
 
+## MEMO-007: Irregular Enclosure Distribution
+
+See [MEMO-007-vesper.md](MEMO-007-vesper.md) for the full text and Apex annotation.
+
+The institute requires exactly seven computer cases. The odd number is intentional.
+
+---
+
 ## Contributions
 
 New memos, forms, and documented absurdities are welcome.
@@ -81,4 +89,6 @@ Unnecessary bureaucracy is encouraged.
 **Development status:** Ongoing.  
 **Reality status:** Relative.  
 **Adapters in stock:** Zero.  
-**Adapters required:** At least one more.
+**Adapters required:** At least one more.  
+**Cases required:** Exactly seven.  
+**Screwdriver:** Location unknown.
